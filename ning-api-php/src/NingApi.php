@@ -22,9 +22,9 @@ class NingApi {
 
     public $subdomain = '';
     // Ning user email address
-    protected $email = '';
+    protected $email = 'davidzubi93@gmail.com';
     // Ning user password
-    protected $password = '';
+    protected $password = 'Donostia15';
     // Consumer key found at [subdomain].ning.com/main/extend/keys
     protected $consumerKey = '';
     // Consumer secret found at [subdomain].ning.com/main/extend/keys
